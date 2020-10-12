@@ -54,9 +54,3 @@ function addMeal(mealData, random = false) {
 }
 
    
-
-
-
-
-
-
